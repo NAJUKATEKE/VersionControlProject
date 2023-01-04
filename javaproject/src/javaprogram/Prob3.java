@@ -10,7 +10,7 @@ public class Prob3 {
 		int[] a = {45, 51, 28, 75, 49, 42};
 		
 		int max=0;
-		//int secmax=0;
+		int secmax=0;
 		for(int i=0;i<6;i++) {
 
 				if (a[i]>max) {
