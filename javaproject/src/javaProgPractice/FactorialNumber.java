@@ -6,7 +6,7 @@ public class FactorialNumber {
 		// TODO Auto-generated method stub
 int num=5;
 int temp=1;
-
+System.out.println("find factorial numbr");
 for(int i=num;i>=1;i--) {
 	temp=temp*i;
 }
